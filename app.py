@@ -2,7 +2,7 @@
 #import altair as alt
 #import datapane as dp
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import plotly.express as px
 import streamlit as st  # 🎈 data web app development
 
